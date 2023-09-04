@@ -1,0 +1,65 @@
+{
+  "superheros": [
+    {
+      "id": 1,
+      "name": "Batman",
+      "alterEgo": "Bruce"
+    },
+    {
+      "id": 2,
+      "name": "Superman",
+      "alterEgo": "Cleark"
+    },
+    {
+      "id": 3,
+      "name": "Wonder",
+      "alterEgo": "Diana"
+    },
+    {
+      "name": "Deepak",
+      "alterEgo": "Ranjan",
+      "id": 4
+    },
+    {
+      "name": "Billy Batson",
+      "alterEgo": "shazam",
+      "id": 5
+    },
+    {
+      "name": "John wick",
+      "alterEgo": "Keenu Riws",
+      "id": 6
+    }
+  ],
+  "friends": [
+    {
+      "id": 1,
+      "name": "John"
+    },
+    {
+      "id": 2,
+      "name": "Wick"
+    },
+    {
+      "id": 3,
+      "name": "Smith"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Will",
+      "email": "sample@gmail.com"
+    }
+  ],
+  "courses": [
+    {
+      "id": "sample@gmail.com",
+      "books": [
+        "Angular",
+        "React",
+        "Vue"
+      ]
+    }
+  ]
+}
